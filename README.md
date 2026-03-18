@@ -1,6 +1,6 @@
 # 🎌 Anime Recommender System (LLMOps)
 
-An end-to-end **Anime Recommendation System** built using modern **LLM + MLOps principles**, designed to deliver personalized anime suggestions based on user preferences.
+End-to-end LLMOps anime recommendation engine with Kubernetes deployment, cloud infrastructure, and real-time monitoring.
 
 ---
 
