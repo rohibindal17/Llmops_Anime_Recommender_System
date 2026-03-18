@@ -23,9 +23,29 @@ This project leverages **Machine Learning + Large Language Models (LLMs)** to bu
 
 ## 🏗️ Tech Stack
 
-- **Languages:** Python  
-- **ML/DL:** Scikit-learn, TensorFlow / PyTorch  
-- **LLM Integration:** OpenAI / HuggingFace  
-- **Data Handling:** Pandas, NumPy  
-- **Deployment:** FastAPI / Flask  
-- **MLOps Tools:** Docker, GitHub Actions (optional)
+### 👨‍💻 Core
+- **Language:** Python  
+- **Version Control:** Git, GitHub  
+
+### 🤖 Machine Learning / LLM
+- **Libraries:** Pandas, NumPy, Scikit-learn  
+- **LLM APIs:** Groq API, HuggingFace Hub  
+- **Techniques:** Recommendation Systems, Embeddings / LLM-based inference  
+
+### ⚙️ Backend / App
+- **Framework:** Streamlit (inferred from port 8501)  
+
+### 🐳 DevOps & MLOps
+- **Containerization:** Docker  
+- **Orchestration:** Kubernetes (Minikube)  
+- **Cluster Management:** kubectl  
+- **Package Manager:** Helm  
+
+### ☁️ Cloud
+- **Platform:** Google Cloud Platform (GCP VM - Ubuntu 24.04)  
+
+### 📊 Monitoring
+- **Tool:** Grafana Cloud (Kubernetes Monitoring)  
+
+### 🔐 Secrets & Config
+- Kubernetes Secrets (API key management) 
